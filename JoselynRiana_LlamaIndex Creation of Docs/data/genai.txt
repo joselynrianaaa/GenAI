@@ -1,0 +1,1 @@
+A convolutional neural network (CNN) is a type of deep learning algorithm that's used to recognize patterns in images, audio, and text. CNNs are made up of multiple layers, including convolution layers, pooling layers, and fully connected layers. They learn features by themselves through filter optimization. 
